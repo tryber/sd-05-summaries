@@ -1,26 +1,26 @@
 # Boas vindas ao repositório de compartilhamento de resumos de cursos da Trybe!
 
 
-<strong>O objetivo deste repositório</strong>
+<strong>Objetivo do repositório</strong>
 
-Aqui, é uma ferramenta para colaborar com os estudos uns dos outros, via o compartilhamento de resumos de conteúdos. De fato, na hora de praticar ou querer relembrar o curso, é muito mais fácil consultar uma fonte só do que uma mistura do caderno, favoritos chrome, aulas trybe e slack, certo?
+Esta é uma ferramenta para colaborar com os estudos uns dos outros, via o compartilhamento de resumos de conteúdos. Na hora de praticar ou relembrar os conteúdos, é mais fácil consultar uma fonte única do que uma mistura do seu caderno, favoritos do chrome, aulas da trybe e slack, certo?
 
 <em>Aqui você pode:
-<br>Consultar resumos do curso, simplesmente navegando os pull requests dos outros alunos; <br>e/ou
-Participar adicionando resumos seus, utilizando uma branch específica e um Pull Request para colocar seus arquivos.</em><br>
+<br>Consultar resumos de aulas do curso através da navegação pelos <em>Pull Requests</em> das pessoas estudantes; <br>e/ou
+Participar adicionando seus resumos, utilizando uma branch específica e um Pull Request para colocar seus arquivos.</em><br>
 
 <strong>Consultar os resumos</strong><br><br>
-À medida que você e os outros estudantes forem entregando os resumos, estará avisado. Pode ir consultando, revisando e comentando os resumos dos outros, para dar parabéns e/ou caso for encontrar algum erro a ser corrigido!
-Tamos juntos!
+À medida que você e as outras pessoas estudantes forem adicionando os resumos, vocês poderão revisar e comentar para dar parabéns e/ou sugerir alterações.
+Estamos juntos!
 
 <strong>Instruções para contribuir</strong><br><br>
-Para contribuir, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver dúvida, mande pelo canal Slack #studyteams!
+Você deverá seguir as instruções a seguir. Fique atenta a cada passo. Caso tenha dúvidas, mande mensagem no canal da sua turma!
 
 
     1. Tenha, de preferência, seu resumo já pronto.
-    É bem melhor para todos poder consultar um trabalho já bem feito e verificado.
-    Pode ser um arquivo criado por você ou algum PDF útil achado online,
-    desde que encaixe na estrutura clara dos modulos e blocos do curso da Trybe.
+    É melhor poder consultar um trabalho finalizado e verificado.
+    Pode ser um arquivo criado por você ou algum conteúdo livre encontrado online,
+    desde que encaixe na estrutura clara dos módulos e blocos do curso da Trybe.
 
     2. Clone o repositório
     • git clone https://github.com/tryber/sd-05-summaries.git 
@@ -52,10 +52,10 @@ Para contribuir, você deverá seguir as instruções a seguir. Fique atento a c
     • Adicione uma descrição para o Pull Request e clique no botão verde "Create pull request"
     • Não se preocupe em preencher mais nada por enquanto! 
     
-    7. Não faça merge. Inclusive, está desabilitado.
     
     
     VQV!!
+    <em>Repositório idealizado e criado pela estudante @juliettebeaudet </em>
     
     
  
