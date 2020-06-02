@@ -55,7 +55,7 @@ Você deverá seguir as instruções a seguir. Fique atenta a cada passo. Caso t
     
     
     VQV!!
-    <em>Repositório idealizado e criado pela estudante @juliettebeaudet </em>
+    Repositório idealizado e criado pela estudante @juliettebeaudet
     
     
  
